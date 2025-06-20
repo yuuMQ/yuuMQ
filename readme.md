@@ -19,6 +19,6 @@ I am currently a Computer Science student in Ho Chi Minh City Open University. I
 
 ---
 ## Keep in touch
-- Email: **pmquan.cv.ai@gmail.com**
+- Email: pmquan.cv.ai@gmail.com
 - Facebook: [pmquan_Yuu](https://www.facebook.com/quan.pham.minh.295982)
 - LinkedIn: [pmquan_Yuu](https://www.linkedin.com/in/qu%C3%A2n-ph%E1%BA%A1m-minh-4653b8319/)
